@@ -1,0 +1,39 @@
+.A
+{
+    background: aqua;
+    border: 2px solid black;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;    
+    padding: 6%;
+    background: url(./images/photo_2022-11-28_10-08-55.jpg) no-repeat ;
+    background-size: cover
+  
+}
+h2 {
+    text-align: center;
+ color: rgb(25, 84, 231);
+ font-weight: bold;
+ margin-top:-8%;
+
+}
+.B
+{
+    display: flex;
+    display: inline-block;
+}
+.C
+{
+    float: right;
+    overflow: hidden;
+
+}
+h4 ,h3{
+    text-align: center;
+    font-weight: bold;
+}
+.d
+{
+    text-align: center;
+    align-items: center;
+}
